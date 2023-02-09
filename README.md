@@ -21,8 +21,8 @@
 <br>
 
 
-#  My favorite tools and technologies:
-> Tools and technologies that I have worked with and am interested in ⚙️ 
+#  My favorite tools and technologies ⚙️
+> Tools and technologies that I have worked with and am interested in 
 
 
 <table>
