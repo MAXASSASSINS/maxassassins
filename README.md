@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+[![](https://visitcount.itsvg.in/api?id=MAXASSASSINS&icon=5&color=1)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning **taliwind CSS, typeScript**
 
 - 💬 Ask me about **react, javascript**
