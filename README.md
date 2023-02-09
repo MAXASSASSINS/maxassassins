@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Mohd Shadab" title="👋 Hi there! I'm Mohd Shadab"/>
+
 <h1 align="center">Hi 👋, I'm Mohd Shadab</h1>
 <h3 align="center">Full stack Developer from India</h3>
 
