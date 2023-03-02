@@ -73,7 +73,7 @@
   <!-- Bootstrap -->
   <td align="center" width="96">
     <img 
-    src="https://res.cloudinary.com/dyod45bn8/image/upload/v1676302452/My_Github_Profile/bootstrap-framework-logo_b53ou9.png" width="45" height="45" />
+    src="https://res.cloudinary.com/dyod45bn8/image/upload/v1677749309/My_Github_Profile/bootstrap-logo-shadow_z1pi98.png" width="45" height="45" />
     <br>Bootstrap
   </td>
 
