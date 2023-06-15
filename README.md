@@ -300,7 +300,7 @@
 <br>
 
 # <img src="https://res.cloudinary.com/dyod45bn8/image/upload/v1677511823/My_Github_Profile/analytics_imkuht.png" width=50 height=50></img> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MAXASSASSINS&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MAXASSASSINS&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MAXASSASSINS&theme=radical&hide_border=false)<br/>
 
